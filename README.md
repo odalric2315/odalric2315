@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odalric2315
-- 👀 I’m interested in Android development with kotlin & python for machine learning
-- 🌱 I’m currently learning basic kotlin and python
+- 👀 I’m interested in Android development with kotlin & python for machine learning and data analysis
+- 🌱 I’m currently learning kotlin and basic python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
