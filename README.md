@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @odalric2315
-- 👀 I’m interested in Android development with kotlin & python for machine learning and data analysis
+- 👀 I’m interested in Mobile Apps development with Kotlin, React Native & Python for machine learning and data analysis
 - 🌱 I’m currently learning kotlin and basic python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
